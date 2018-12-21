@@ -1,5 +1,5 @@
 {
-  "name": "quill",
+  "name": "@pusher/quill",
   "version": "2.0.0-dev.3",
   "description": "Your powerful, rich text editor",
   "author": "Jason Chen <jhchen7@gmail.com>",
